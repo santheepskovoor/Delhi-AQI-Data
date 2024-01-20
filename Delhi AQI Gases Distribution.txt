@@ -1,0 +1,11 @@
+This analysis is an attempt to understand the distribution of various atmospheric gases and particulate matter in last 3 years in New Delhi, India casusing the Air pollussion.
+
+The dataset utilized encompasses weather information for New Delhi, India, spanning from November 2020 to January 2023, sourced from Kaggle.com. The primary objective of the analysis is to elucidate the distribution of pollutant concentrations over the past few years, offering insights into the Air Quality Index (AQI) of the city. A surge in the AQI indicates heightened air pollution, posing severe risks to human health.
+
+It is important to note that the analysis doesn't seek to predict the AQI but rather aims to provide an understanding of air quality concerning the concentrations of various factors such as CO, CO2, O3, PM2.5, PM10, SO2, and more in the atmosphere.
+
+The analysis reveals a consistent and steady concentration of Carbon Monoxide (CO), which consistently registers higher levels in the atmosphere compared to other pollutants. Notably, during the initial quarters of 2021 and 2022, there is a decline in CO concentration, extending until the beginning of the third quarter. Conversely, in the fourth quarter of both years, the concentration of CO experiences an upswing, reaching its peak.
+
+This observed trend mirrors the patterns observed in the case of 10 Micron PM and 2.5 Micron PM. On the other hand, pollutants such as Ammonia, NO, Ozone, and SO2 exhibit lower concentrations in the atmosphere relative to the aforementioned pollutants. Despite their lower concentrations, even slight variations in these pollutants may have adverse health effects.
+
+Tools Used: Microsoft Power BI
